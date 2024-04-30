@@ -1,38 +1,38 @@
-# Calculadora de console C#
+# C# Console Calculator
 
-Este é um programa de calculadora simplifica baseado em console escrito em C#. Ele permite que os usuários executam operações aritméticas básicas, como adição, subtração, multiplicação e divisão. 
+This is a simple console-based calculator program written in C#. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. 
 
-## Características
+## Features
 
-- **Soma:** Adiciona dois números juntas.
-- **Subtração:** Subtrai um número de outro.
-- **Multiplicação:** Multiplica dois números juntas.
-- **Divisão:** Divida um número por outro.
-- **Saída:** Sai do programa.
+- **Sum:** Adds two numbers together.
+- **Subtraction:** Subtracts one number from another.
+- **Multiplication:** Multiplies two numbers together.
+- **Division:** Divides one number by another.
+- **Exit:** Exits the program.
 
-## Uso
+## Usage
 
-Ao início o programa, os usuários recebem um menu para selecionar uma operação desejada. Depois de executar uma operação selecionada, os usuários podem optar por continuar com outro cálculo ou sair do programa.
+Upon launching the program, users are presented with a menu to select the desired operation. After performing the selected operation, users can choose to continue with another calculation or exit the program.
 
-## Como correr
+## How to Run
 
-Para executar o programa, siga estes passos:
+To run the program, follow these steps:
 
-1. Certificadora-se de ter o [. . . . . .SDK LÍQUIDO](https://dotnet.microsoft.com/download) instalado no seu sistema.
-2. Clone este repositório ou baixa o côdigo-fonte.
-3. Navegue até o direito que contém os arquivos do código-fonte.
-4. Abra um terminal ou prompt de comando nesse diretório.
-5. Compilar o programa usando o comando:
-    `bash
- dotnet construir
-    `
-6. Executar o programa usando o comando:
-    `bash
- dotnet correr
-    `
+1. Ensure you have the .NET SDK installed on your system.
+2. Clone this repository or download the source code.
+3. Navigate to the directory containing the source code files.
+4. Open a terminal or command prompt in that directory.
+5. Compile the program using the command:
+    ```bash
+    dotnet build
+    ```
+6. Run the program using the command:
+    ```bash
+    dotnet run
+    ```
 
-## Autor
+## Author
 
-- **Nome:** Antônio Martins
+- **Name:** Antônio Martins
 - **GitHub:** [@tonibmartins](https://github.com/tonibmartins)
 
